@@ -121,7 +121,7 @@ export default function Terminal() {
           className="text-center mb-12"
         >
           <span className="text-neon-blue/60 font-mono text-xs tracking-widest uppercase">
-            // Live Interface
+            &#47;&#47; Live Interface
           </span>
           <h2 className="text-3xl md:text-4xl font-bold text-white mt-3">
             System{" "}

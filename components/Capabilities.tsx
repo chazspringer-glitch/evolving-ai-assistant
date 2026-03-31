@@ -98,7 +98,7 @@ export default function Capabilities() {
           className="text-center mb-16"
         >
           <span className="text-neon-blue/60 font-mono text-xs tracking-widest uppercase">
-            // Core Systems
+            &#47;&#47; Core Systems
           </span>
           <h2 className="text-3xl md:text-5xl font-bold text-white mt-3 mb-4">
             Core{" "}
