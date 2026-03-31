@@ -52,7 +52,7 @@ export default function AIPresence() {
               className="mb-4"
             >
               <span className="text-neon-blue/60 font-mono text-xs tracking-widest uppercase">
-                // Core Intelligence
+                &#47;&#47; Core Intelligence
               </span>
             </motion.div>
 

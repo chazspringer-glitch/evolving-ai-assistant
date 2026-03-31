@@ -41,7 +41,7 @@ export default function Transformation() {
           className="mb-4"
         >
           <span className="text-neon-violet/60 font-mono text-xs tracking-widest uppercase">
-            // The Transformation
+            &#47;&#47; The Transformation
           </span>
         </motion.div>
 
